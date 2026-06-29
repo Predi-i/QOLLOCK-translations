@@ -26,12 +26,6 @@ That's it. No git, no JSON, no terminal.
 
 Currently translated: 🇬🇧 English (source), 🇷🇺 Russian, 🇺🇦 Ukrainian, 🇵🇱 Polish, 🇧🇬 Bulgarian, 🇧🇾 Belarusian, 🇯🇵 Japanese, 🇨🇳 Chinese (Simplified), 🇫🇷 French, 🇵🇹 Portuguese, 🇧🇷 Brazilian Portuguese, 🇪🇸 Spanish.
 
-Around **830 strings** per language, currently at **~92–98% coverage**. Your language not here? Add it on the site — it takes one click.
-
-## Prefer to edit files directly?
-
-You can, but the site is easier and catches mistakes for you. If you really want to, the translation catalogs live in [`locales/<lang>/translation.json`](./locales) — open a pull request with your changes and a maintainer will review it.
-
 ---
 
 <details>
@@ -44,7 +38,3 @@ This repository is a **public mirror** of the translation catalogs from the priv
 - Merged translation PRs are folded back into `ql_settings.js` via `scripts/import_locales_json.js`, then the VPK is repacked.
 
 </details>
-
-## License
-
-Translations are contributed by the community and fall under the same license as the QOLLOCK mod itself.
