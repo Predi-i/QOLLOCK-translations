@@ -1,51 +1,49 @@
 # QOLLOCK Translations
 
-**Public mirror of translation files from the private [QOLLOCK](https://github.com/civo7/QOLLOCK) mod.**
+Help translate **[QOLLOCK](https://github.com/civo7/QOLLOCK)** — a quality-of-life HUD mod for Deadlock — into your language.
 
-QOLLOCK is a Deadlock HUD customization mod. This repository contains **only** the UI translation catalogs — no mod code. It exists so community translators can contribute through the [qollock-translate](https://github.com/Predi-i/qollock-translate) web workbench without needing access to the private repository.
+You don't need to code, install anything, or clone this repo. Everything happens in the browser.
 
-## What's here
+## 👉 Translate here
 
-```
-locales/
-├── en/translation.json           # English source (identity map)
-├── ru/translation.json           # Russian
-├── uk/translation.json           # Ukrainian
-├── pl/translation.json           # Polish
-├── bg/translation.json           # Bulgarian
-├── be/translation.json           # Belarusian
-├── ja/translation.json           # Japanese
-├── zh/translation.json           # Chinese (Simplified)
-├── fr/translation.json           # French
-├── pt/translation.json           # Portuguese
-├── pt-BR/translation.json        # Brazilian Portuguese
-└── es/translation.json           # Spanish
-```
+### **[qollock-translate.predi.workers.dev](https://qollock-translate.predi.workers.dev)**
 
-830 translatable strings, ~100% coverage across all languages.
+1. Open the site and **sign in with GitHub** (any GitHub account works — no card, no setup).
+2. **Pick your language** — or add a new one if it's not listed yet.
+3. **Translate the strings.** The English text is on one side, you type your translation on the other.
+4. When you're happy, click **Submit / PR** — the site opens a pull request for you automatically. A maintainer reviews it and it ships in the next mod update.
 
-## How translations work
+That's it. No git, no JSON, no terminal.
 
-```
-Private QOLLOCK repo              This public repo              Workbench (qollock-translate)
-  ql_settings.js (maps)  ──sync──►  locales/*.json  ◄──PR──  translators edit in browser
-        ▲                                │
-        └─────── manual import ◄──────────┘ (maintainer merges PR)
-```
+## What the site helps you with
 
-1. **Translators** use the [qollock-translate workbench](https://github.com/Predi-i/qollock-translate) (web UI) to edit translations. The workbench reads the English source from `locales/en/translation.json` in **this** repo.
-2. When a translator clicks **PR**, the workbench opens a pull request here with their changes.
-3. The **maintainer** reviews and merges the PR.
-4. The maintainer runs `scripts/import_locales_json.js` in the private QOLLOCK repo to fold the merged translations into the canonical JavaScript maps (`ql_settings.js`), then repacks the VPK.
-5. A **GitHub Action** in the private repo automatically pushes `locales/` back here when changes are made, keeping this mirror up to date.
+- **Progress filters** — jump straight to what's *to fill*, *flagged*, *needs review*, or *done*, so you always know what's left.
+- **Glossary** — a per-language dictionary of recurring terms (e.g. `Profile → Профиль`). Agree on a term once and the site reuses it everywhere: it suggests the translation as a one-click insert, pre-fills boxes that exactly match a glossary term (just press Enter), and warns when something is translated inconsistently. Some terms are **locked** (file names and acronyms like `.vpk`, `gameinfo.gi`, `HUD`, `MMR`) — keep those unchanged.
+- **Placeholder safety** — text like `{{count}}` must stay intact; the site won't let you submit a translation that drops or mangles a placeholder.
+- **Autosave** — your drafts are kept as you go.
 
-## The source of truth
+## Languages
 
-The **JavaScript maps in `ql_settings.js`** (in the private repo) are the canonical source. These JSON files are a public interchange format for the workbench — the mod itself compiles the JS maps into the VPK (Source 2 Panorama cannot read JSON at runtime).
+Currently translated: 🇬🇧 English (source), 🇷🇺 Russian, 🇺🇦 Ukrainian, 🇵🇱 Polish, 🇧🇬 Bulgarian, 🇧🇾 Belarusian, 🇯🇵 Japanese, 🇨🇳 Chinese (Simplified), 🇫🇷 French, 🇵🇹 Portuguese, 🇧🇷 Brazilian Portuguese, 🇪🇸 Spanish.
 
-## Contributing
+Around **830 strings** per language, currently at **~92–98% coverage**. Your language not here? Add it on the site — it takes one click.
 
-Use the [qollock-translate workbench](https://github.com/Predi-i/qollock-translate) to submit translations. Direct PRs to this repo are welcome too, but the workbench handles validation (placeholder mismatches, glossary terms) and makes it easier for non-developers.
+## Prefer to edit files directly?
+
+You can, but the site is easier and catches mistakes for you. If you really want to, the translation catalogs live in [`locales/<lang>/translation.json`](./locales) — open a pull request with your changes and a maintainer will review it.
+
+---
+
+<details>
+<summary>For maintainers — how this repo stays in sync</summary>
+
+This repository is a **public mirror** of the translation catalogs from the private QOLLOCK mod repo. It contains only the UI strings — no mod code — so translators can contribute without access to the private repository.
+
+- The canonical source is the JavaScript maps in `ql_settings.js` (private repo). These JSON files are a public interchange format; Source 2 Panorama can't read JSON at runtime, so the maps are compiled into the VPK.
+- A GitHub Action in the private repo pushes `locales/` here whenever strings change, keeping this mirror current.
+- Merged translation PRs are folded back into `ql_settings.js` via `scripts/import_locales_json.js`, then the VPK is repacked.
+
+</details>
 
 ## License
 
