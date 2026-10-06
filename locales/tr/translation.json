@@ -403,6 +403,7 @@
   "Makes the minimap rotate with player view, this is just for fun.": "Mini haritanın oyuncu görüşüyle birlikte dönmesini sağlar. Sadece eğlence amaçlı.",
   "Max Health: --": "Maks Can: --",
   "Max Notifications": "Maksimum Bildirimler",
+  "Measure Scheduler polls and FindChildTraverse calls for 10 seconds with current settings. Native panel visits and FPS are unavailable.": "Mevcut ayarlarla 10 saniye boyunca Scheduler yoklamalarını ve FindChildTraverse çağrılarını ölçün. Yerel panel ziyaretleri ve FPS ölçümü kullanılamıyor.",
   "Medium": "Orta",
   "Medium Camps": "Orta Seviye Kamplar",
   "Menu when you receive a punishment for breaking game rules.": "Oyun kurallarını ihlal ettiğiniz için ceza aldığınızda gösterilen menü.",
