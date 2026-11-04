@@ -828,8 +828,8 @@
     "group": ""
   },
   "Buff Timer": {
-    "breadcrumb": "Settings",
-    "tab": "Settings",
+    "breadcrumb": "Customize",
+    "tab": "Customize",
     "section": "",
     "group": ""
   },
@@ -3570,8 +3570,8 @@
     "group": ""
   },
   "Left Bridge Buff Timer": {
-    "breadcrumb": "Settings",
-    "tab": "Settings",
+    "breadcrumb": "Customize",
+    "tab": "Customize",
     "section": "",
     "group": ""
   },
@@ -5274,8 +5274,8 @@
     "group": ""
   },
   "Right Bridge Buff Timer": {
-    "breadcrumb": "Settings",
-    "tab": "Settings",
+    "breadcrumb": "Customize",
+    "tab": "Customize",
     "section": "",
     "group": ""
   },
