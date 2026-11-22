@@ -215,10 +215,34 @@
     "section": "",
     "group": ""
   },
+  "Added to favourites.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Additional hero changes: {count}": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Additional items changed: {count}": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Addons": {
     "breadcrumb": "Minimap / Addons",
     "tab": "Minimap",
     "section": "Addons",
+    "group": ""
+  },
+  "Adds a High Elo tab and author badges to the build browser using a third-party live feed.": {
+    "breadcrumb": "UI / UI Controls",
+    "tab": "UI",
+    "section": "UI Controls",
     "group": ""
   },
   "Adds a STAT button on profile rows that opens Statlocker for that account.": {
@@ -353,6 +377,12 @@
     "section": "",
     "group": ""
   },
+  "All regions": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Allows you to drag move some menus.": {
     "breadcrumb": "Settings",
     "tab": "Settings",
@@ -384,6 +414,12 @@
     "group": ""
   },
   "Already at default value.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Also tried": {
     "breadcrumb": "Settings",
     "tab": "Settings",
     "section": "",
@@ -446,6 +482,12 @@
   "An always visible zipline boost overlay.": {
     "breadcrumb": "Overlay",
     "tab": "Overlay",
+    "section": "",
+    "group": ""
+  },
+  "And {count} more": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
     "section": "",
     "group": ""
   },
@@ -665,10 +707,22 @@
     "section": "",
     "group": ""
   },
+  "Best": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Best:": {
     "breadcrumb": "Settings",
     "tab": "Settings",
     "section": "",
+    "group": ""
+  },
+  "Better Builds": {
+    "breadcrumb": "Shop / Shop Display",
+    "tab": "Shop",
+    "section": "Shop Display",
     "group": ""
   },
   "Better Item Cooldowns": {
@@ -858,6 +912,24 @@
     "group": ""
   },
   "Build Title": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Build data comes from builds.braydendwyer.com and deadlock-api.com.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Builds written or played by trusted players": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Builds written or played by {region} leaderboard players": {
     "breadcrumb": "Settings",
     "tab": "Settings",
     "section": "",
@@ -1565,7 +1637,31 @@
     "section": "Abilities",
     "group": ""
   },
+  "Could not identify the hero from the game's default builds.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Could not load personal presets. Reopen this tab to retry.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Could not load that build. Try again in a moment.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Could not open the build feed.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Could not reach the favourite button.": {
     "breadcrumb": "Settings",
     "tab": "Settings",
     "section": "",
@@ -1800,6 +1896,12 @@
     "group": ""
   },
   "DISCORD": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "DLNS": {
     "breadcrumb": "Settings",
     "tab": "Settings",
     "section": "",
@@ -2387,6 +2489,12 @@
     "section": "",
     "group": ""
   },
+  "Faded avatars show players who mainly run a different build.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Failed Hint": {
     "breadcrumb": "HUD / Abilities",
     "tab": "HUD",
@@ -2405,6 +2513,18 @@
     "section": "",
     "group": ""
   },
+  "Favourites": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Favourites: {count}": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Feature Test": {
     "breadcrumb": "Dev / Testing & Diagnostics",
     "tab": "Dev",
@@ -2415,6 +2535,12 @@
     "breadcrumb": "Healthbar / Player",
     "tab": "Healthbar",
     "section": "Player",
+    "group": ""
+  },
+  "Filter by leaderboard region.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
     "group": ""
   },
   "Filters": {
@@ -3077,6 +3203,12 @@
     "section": "",
     "group": ""
   },
+  "High Elo": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Highlight Mode": {
     "breadcrumb": "Crosshair / Item Target Reticle",
     "tab": "Crosshair",
@@ -3473,6 +3605,12 @@
     "section": "",
     "group": ""
   },
+  "Items gone: {count}": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Japanese": {
     "breadcrumb": "Settings",
     "tab": "Settings",
@@ -3551,6 +3689,18 @@
     "section": "",
     "group": ""
   },
+  "Last updated: {date}": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Last used": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Latest updates and version notes": {
     "breadcrumb": "Support",
     "tab": "Support",
@@ -3558,6 +3708,12 @@
     "group": ""
   },
   "Lavender": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Leaderboard players, Night Shift players and hand-picked accounts.": {
     "breadcrumb": "Settings",
     "tab": "Settings",
     "section": "",
@@ -3617,6 +3773,18 @@
     "section": "",
     "group": ""
   },
+  "Live build data · Just updated": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Live build data · Updated {count} min ago": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Live preview is available in a match or sandbox. Close other visual tools and try again.": {
     "breadcrumb": "Settings",
     "tab": "Settings",
@@ -3635,9 +3803,27 @@
     "section": "",
     "group": ""
   },
+  "Loading builds…": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Loading live build data…": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Loading personal presets...": {
     "breadcrumb": "Presets",
     "tab": "Presets",
+    "section": "",
+    "group": ""
+  },
+  "Loading {build}…": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
     "section": "",
     "group": ""
   },
@@ -3696,6 +3882,12 @@
     "group": ""
   },
   "Magenta": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Main": {
     "breadcrumb": "Settings",
     "tab": "Settings",
     "section": "",
@@ -4013,6 +4205,12 @@
     "section": "",
     "group": ""
   },
+  "Most used": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Move HUD elements on screen and edit their colors. Save keeps changes; Cancel discards the draft.": {
     "breadcrumb": "Settings",
     "tab": "Settings",
@@ -4115,6 +4313,12 @@
     "section": "",
     "group": ""
   },
+  "Newest": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Next": {
     "breadcrumb": "Settings",
     "tab": "Settings",
@@ -4125,6 +4329,18 @@
     "breadcrumb": "HUD / Top Bar",
     "tab": "HUD",
     "section": "Top Bar",
+    "group": ""
+  },
+  "No builds found for this hero in the last {days} days.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "No builds match these filters.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
     "group": ""
   },
   "No color wash": {
@@ -4140,6 +4356,12 @@
     "group": ""
   },
   "No filter settings but better FPS.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "No longer in the shop: {items}": {
     "breadcrumb": "Settings",
     "tab": "Settings",
     "section": "",
@@ -4317,6 +4539,12 @@
     "breadcrumb": "Crosshair / Item Cooldowns",
     "tab": "Crosshair",
     "section": "Item Cooldowns",
+    "group": ""
+  },
+  "Only games where the player bought items from this build count.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
     "group": ""
   },
   "Only simplifies the shop stats display.": {
@@ -4505,6 +4733,12 @@
     "section": "",
     "group": ""
   },
+  "Patches affecting this build since {date}: {count}": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Per-Hero Popups": {
     "breadcrumb": "Shop / Quick Buy",
     "tab": "Shop",
@@ -4613,6 +4847,12 @@
     "section": "Announcer",
     "group": ""
   },
+  "Played in {count} of the last {total} Night Shift editions.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Player": {
     "breadcrumb": "Healthbar / Player",
     "tab": "Healthbar",
@@ -4628,6 +4868,24 @@
   "Player Stats": {
     "breadcrumb": "HUD",
     "tab": "HUD",
+    "section": "",
+    "group": ""
+  },
+  "Players in the top {count} of their leaderboard.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Players who played at least {count} of the last {total} Night Shift editions.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Players: {players} · Games: {games} · Last {days} days": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
     "section": "",
     "group": ""
   },
@@ -5111,6 +5369,12 @@
     "section": "",
     "group": ""
   },
+  "Removed from favourites.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Rename": {
     "breadcrumb": "Settings",
     "tab": "Settings",
@@ -5433,6 +5697,12 @@
     "breadcrumb": "Dev / In-Game Benchmarks",
     "tab": "Dev",
     "section": "In-Game Benchmarks",
+    "group": ""
+  },
+  "Run by": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
     "group": ""
   },
   "Run complete. Press New Run.": {
@@ -6395,6 +6665,30 @@
     "section": "",
     "group": ""
   },
+  "Sort by author rank and trusted player usage.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Sort by games played by trusted players, with more weight for recent games.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Sort by when a trusted player last used the build.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Sort by when the build was last updated.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Souls": {
     "breadcrumb": "Customize",
     "tab": "Customize",
@@ -6767,6 +7061,36 @@
     "section": "Unsecured Plus",
     "group": ""
   },
+  "That build is already active.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "The author regularly picks {hero} in Night Shift.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "The build feed reported an error.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "The build feed sent an incomplete response.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "The build feed took too long to respond.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "The circle countdown for when you are reloading.": {
     "breadcrumb": "Crosshair / Reloading",
     "tab": "Crosshair",
@@ -6971,6 +7295,12 @@
     "section": "",
     "group": ""
   },
+  "This build is listed because trusted players run it.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "This element is edited with the controls below.": {
     "breadcrumb": "Settings",
     "tab": "Settings",
@@ -7079,6 +7409,12 @@
     "section": "Minimap Reminder",
     "group": ""
   },
+  "Today": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Toggle the hitmarkers when attacking enemies.": {
     "breadcrumb": "Console / General",
     "tab": "Console",
@@ -7095,6 +7431,12 @@
     "breadcrumb": "HUD / Shop",
     "tab": "HUD",
     "section": "Shop",
+    "group": ""
+  },
+  "Top 100": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
     "group": ""
   },
   "Top Bar": {
@@ -7199,6 +7541,12 @@
     "section": "",
     "group": ""
   },
+  "Trusted": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Tunnel Opacity": {
     "breadcrumb": "Settings",
     "tab": "Settings",
@@ -7283,6 +7631,24 @@
     "section": "",
     "group": ""
   },
+  "Unknown author": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Unknown item": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Unknown player": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Unsecured Plus": {
     "breadcrumb": "Overlay",
     "tab": "Overlay",
@@ -7325,6 +7691,12 @@
     "section": "Meta Settings",
     "group": ""
   },
+  "Updated": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "Updating HUD...": {
     "breadcrumb": "Settings",
     "tab": "Settings",
@@ -7356,6 +7728,12 @@
     "group": ""
   },
   "Urn Timer": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Use Build": {
     "breadcrumb": "Settings",
     "tab": "Settings",
     "section": "",
@@ -7518,6 +7896,12 @@
     "group": ""
   },
   "Waiting for HUD preview": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "Waiting for the game's build list…": {
     "breadcrumb": "Settings",
     "tab": "Settings",
     "section": "",
@@ -7775,6 +8159,36 @@
     "section": "",
     "group": ""
   },
+  "{count}d": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "{count}k": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "{count}m": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "{hero} is one of the author's top heroes on the leaderboard.": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "{item} · Changes: {count} · {date}": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
   "{label} — EXCEPTION": {
     "breadcrumb": "Settings",
     "tab": "Settings",
@@ -7782,6 +8196,24 @@
     "group": ""
   },
   "{label} — TIMEOUT": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "{percent}% bought from this build": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "{player} · Games: {games} · Last played: {date}": {
+    "breadcrumb": "Settings",
+    "tab": "Settings",
+    "section": "",
+    "group": ""
+  },
+  "{reason} Click to retry.": {
     "breadcrumb": "Settings",
     "tab": "Settings",
     "section": "",
