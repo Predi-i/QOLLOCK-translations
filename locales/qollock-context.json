@@ -5099,6 +5099,12 @@
     "section": "Shop",
     "group": ""
   },
+  "Quick Buy in Shop": {
+    "breadcrumb": "Customize",
+    "tab": "Customize",
+    "section": "",
+    "group": ""
+  },
   "Quickbuy Total Summary": {
     "breadcrumb": "Settings",
     "tab": "Settings",
@@ -6078,8 +6084,8 @@
     "group": ""
   },
   "Shop Stats": {
-    "breadcrumb": "Settings",
-    "tab": "Settings",
+    "breadcrumb": "Customize",
+    "tab": "Customize",
     "section": "",
     "group": ""
   },
